@@ -15,7 +15,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :school: I am currently studying to become a Programming Technician at [UTN](https://www.frgp.utn.edu.ar/)
-- :technologist: **Currently learing on** `C++`, `Python` **&** `Data structures`
+- :technologist: **Currently learing on** `C++` **&** `Data structures`
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=nachorodrigguez&amp;color=EA4335&amp;style=flat-square)](nachorodrigguez@gmail.com)
 - :nerd_face: Always believe `"Success is the sum of small efforts, repeated day after day"`
 <br>
@@ -24,7 +24,6 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
 
 ![C](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
 
